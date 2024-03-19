@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "196_LoopingFungsi", "196_Lo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "196_WhileLooping", "196_WhileLooping\196_WhileLooping.vcxproj", "{DB317F2D-6A50-4C52-9B05-B01CD3567719}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "196_DoWhileLooping", "196_DoWhileLooping\196_DoWhileLooping.vcxproj", "{72024CB6-E107-4C02-B9E4-F90222F6EDF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{DB317F2D-6A50-4C52-9B05-B01CD3567719}.Release|x64.Build.0 = Release|x64
 		{DB317F2D-6A50-4C52-9B05-B01CD3567719}.Release|x86.ActiveCfg = Release|Win32
 		{DB317F2D-6A50-4C52-9B05-B01CD3567719}.Release|x86.Build.0 = Release|Win32
+		{72024CB6-E107-4C02-B9E4-F90222F6EDF0}.Debug|x64.ActiveCfg = Debug|x64
+		{72024CB6-E107-4C02-B9E4-F90222F6EDF0}.Debug|x64.Build.0 = Debug|x64
+		{72024CB6-E107-4C02-B9E4-F90222F6EDF0}.Debug|x86.ActiveCfg = Debug|Win32
+		{72024CB6-E107-4C02-B9E4-F90222F6EDF0}.Debug|x86.Build.0 = Debug|Win32
+		{72024CB6-E107-4C02-B9E4-F90222F6EDF0}.Release|x64.ActiveCfg = Release|x64
+		{72024CB6-E107-4C02-B9E4-F90222F6EDF0}.Release|x64.Build.0 = Release|x64
+		{72024CB6-E107-4C02-B9E4-F90222F6EDF0}.Release|x86.ActiveCfg = Release|Win32
+		{72024CB6-E107-4C02-B9E4-F90222F6EDF0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
