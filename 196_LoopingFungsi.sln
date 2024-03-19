@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "196_WhileLooping", "196_Whi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "196_DoWhileLooping", "196_DoWhileLooping\196_DoWhileLooping.vcxproj", "{72024CB6-E107-4C02-B9E4-F90222F6EDF0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mernghitung luas persegi panjang", "Membuat pernghitung luas persegi panjang\Membuat pernghitung luas persegi panjang.vcxproj", "{EBAD2965-E0BD-4B15-B1C9-652E1F55287D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "menghitung_luas_persegi", "menghitung_luas_persegi\menghitung_luas_persegi.vcxproj", "{C61A5565-5714-4A8C-9791-ED8259FD9A7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +45,22 @@ Global
 		{72024CB6-E107-4C02-B9E4-F90222F6EDF0}.Release|x64.Build.0 = Release|x64
 		{72024CB6-E107-4C02-B9E4-F90222F6EDF0}.Release|x86.ActiveCfg = Release|Win32
 		{72024CB6-E107-4C02-B9E4-F90222F6EDF0}.Release|x86.Build.0 = Release|Win32
+		{EBAD2965-E0BD-4B15-B1C9-652E1F55287D}.Debug|x64.ActiveCfg = Debug|x64
+		{EBAD2965-E0BD-4B15-B1C9-652E1F55287D}.Debug|x64.Build.0 = Debug|x64
+		{EBAD2965-E0BD-4B15-B1C9-652E1F55287D}.Debug|x86.ActiveCfg = Debug|Win32
+		{EBAD2965-E0BD-4B15-B1C9-652E1F55287D}.Debug|x86.Build.0 = Debug|Win32
+		{EBAD2965-E0BD-4B15-B1C9-652E1F55287D}.Release|x64.ActiveCfg = Release|x64
+		{EBAD2965-E0BD-4B15-B1C9-652E1F55287D}.Release|x64.Build.0 = Release|x64
+		{EBAD2965-E0BD-4B15-B1C9-652E1F55287D}.Release|x86.ActiveCfg = Release|Win32
+		{EBAD2965-E0BD-4B15-B1C9-652E1F55287D}.Release|x86.Build.0 = Release|Win32
+		{C61A5565-5714-4A8C-9791-ED8259FD9A7E}.Debug|x64.ActiveCfg = Debug|x64
+		{C61A5565-5714-4A8C-9791-ED8259FD9A7E}.Debug|x64.Build.0 = Debug|x64
+		{C61A5565-5714-4A8C-9791-ED8259FD9A7E}.Debug|x86.ActiveCfg = Debug|Win32
+		{C61A5565-5714-4A8C-9791-ED8259FD9A7E}.Debug|x86.Build.0 = Debug|Win32
+		{C61A5565-5714-4A8C-9791-ED8259FD9A7E}.Release|x64.ActiveCfg = Release|x64
+		{C61A5565-5714-4A8C-9791-ED8259FD9A7E}.Release|x64.Build.0 = Release|x64
+		{C61A5565-5714-4A8C-9791-ED8259FD9A7E}.Release|x86.ActiveCfg = Release|Win32
+		{C61A5565-5714-4A8C-9791-ED8259FD9A7E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -12,7 +12,7 @@ int main()
 
     do
     {
-        cout << "perulangan Do..wihle" << endl;
+        cout << "perulangan Do..while" << endl;
         x = rand() % 10;
 
         cout << "Nilai x : " << x << endl;
